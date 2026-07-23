@@ -1,0 +1,6 @@
+This is a sample text file.
+It contains information about the Python programming language.
+Python is a high-level, interpreted programming language that is easy to learn and use.
+It is widely used for web development, data analysis, artificial intelligence, and more.
+Python is known for its clear syntax and readability, making it an excellent choice for beginners.
+
